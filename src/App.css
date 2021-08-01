@@ -1,0 +1,6 @@
+@import '~antd/dist/antd.css';
+
+@font-face {
+    font-family: "antui-icon";
+    src: url('https://gw.alipayobjects.com/os/basement_prod/0496620c-35f3-4a7e-b606-7c38c202321e.ttf?v=20200115') format('truetype');
+}

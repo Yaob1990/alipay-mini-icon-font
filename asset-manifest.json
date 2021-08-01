@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/alipay-mini-icon-font/static/css/main.c9f9d673.chunk.css",
-    "main.js": "/alipay-mini-icon-font/static/js/main.e82c3005.chunk.js",
-    "main.js.map": "/alipay-mini-icon-font/static/js/main.e82c3005.chunk.js.map",
+    "main.js": "/alipay-mini-icon-font/static/js/main.227dd3d5.chunk.js",
+    "main.js.map": "/alipay-mini-icon-font/static/js/main.227dd3d5.chunk.js.map",
     "runtime-main.js": "/alipay-mini-icon-font/static/js/runtime-main.2998fb68.js",
     "runtime-main.js.map": "/alipay-mini-icon-font/static/js/runtime-main.2998fb68.js.map",
     "static/css/2.83a79fa7.chunk.css": "/alipay-mini-icon-font/static/css/2.83a79fa7.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.83a79fa7.chunk.css",
     "static/js/2.bdcf8bd1.chunk.js",
     "static/css/main.c9f9d673.chunk.css",
-    "static/js/main.e82c3005.chunk.js"
+    "static/js/main.227dd3d5.chunk.js"
   ]
 }
